@@ -1,0 +1,33 @@
+.azul{
+    color:blue;
+}
+
+h1 + h1{
+    color:green;
+}
+
+.pink{
+    color:pink;
+}
+
+.gren{
+    color:green;
+}
+.blue{
+    color:blue;
+}
+    
+h1 ~ h2{
+    color:yellow;
+}
+
+.red{
+    color:red;
+}
+
+h4{
+    color:green;
+}
+h5{
+    color:green;
+}
